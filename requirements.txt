@@ -1,0 +1,6 @@
+requests==2.32.5
+beautifulsoup4==4.13.5
+ollama==0.5.3
+streamlit==1.49.1
+playwright==1.48.0
+json5
